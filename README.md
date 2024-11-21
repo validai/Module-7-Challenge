@@ -26,8 +26,8 @@ Click the link below to view a walkthrough of the application:
 
 Here are screenshots demonstrating the application:
 
-### Screenshot 1: Application Prompt
+### Screenshot 1: Code for Generating README
 ![index.js code](assets/images/screenshot1.png)
 
-### Screenshot 2: Generated README
+### Screenshot 2: Code for Generating README continued
 ![index.js code continued](assets/images/screenshot2.png)
