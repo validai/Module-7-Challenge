@@ -15,7 +15,7 @@ This project was designed to deepen my understanding of web development concepts
 ## Installation
 1. Clone Repo 
 2. Navigate to Module-7-Challenge 
-3. Install Depenedencies 'npm install' 
+3. Install Depenedencies with 'npm install' 
 4. Start with 'npm start'
 
 ## Usage
