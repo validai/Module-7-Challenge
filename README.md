@@ -4,6 +4,16 @@
 ## Description
 This project was designed to deepen my understanding of web development concepts by creating a fully functional application.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+
+
 ## Installation
 1. Clone Repo 
 2. Navigate to Module-7-Challenge 
