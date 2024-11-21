@@ -8,9 +8,7 @@ This project was designed to deepen my understanding of web development concepts
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
-- [Features](#features)
 - [How to Contribute](#how-to-contribute)
 
 
